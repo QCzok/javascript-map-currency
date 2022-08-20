@@ -4,9 +4,9 @@
 Wir haben eine Liste mit €-Beträgen und möchten sie für unseren Kunden aber in eine Liste mit $-Beträgen umrechnen.
 
 ## Aufgabenstellung - Teil 1
-Schreibe ein Array euro mit den Beträgen: 12.50, 30, 2.75, 80, 17, 0
+Schreibe ein Array `euro` mit den Beträgen: 12.50, 30, 2.75, 80, 17, 0
 
-Schreibe nun ein leeres Array dollar.
+Schreibe nun ein leeres Array `dollar`.
 
 ## Aufgabenstellung - Teil 2
 Auf die Liste mit den €-Beträgen wenden wir nun `map()` an.
